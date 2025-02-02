@@ -1,0 +1,33 @@
+body{
+    background-color: black;
+    color: cyan;
+}
+
+.main{
+display: flex;
+justify-content: center;
+margin-top: 75;
+flex-wrap: wrap;
+}
+.a{
+    color: red;
+}
+.center{
+    width: 800px;
+    box-shadow: 7px 7px 10px red, -7px -7px 7px RED;
+   
+    border-radius: 50px;
+
+}
+h1{
+    
+    font-size: xxx-large;
+    margin-left: 20px;
+    margin-right: 20px;
+    text-shadow:5px 5px 5px red;
+}
+p{
+    font-size: x-large;
+    margin-left: 20px;
+    margin-right: 20px;
+}
